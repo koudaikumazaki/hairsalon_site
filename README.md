@@ -4,6 +4,15 @@
 ## サイトURL
 https://xenodochial-hopper-7a5d74.netlify.app/index.html
 
+## 閲覧時の注意
+ブログ詳細ページとお知らせ詳細ページは一部をのぞいてダミーとなっております。
+そのため、上記のページをご確認したい場合には、下記リンクからのアクセスをお願いいたします。
+
+お知らせ詳細ページ
+https://xenodochial-hopper-7a5d74.netlify.app/0201news.html
+ブログ詳細ページ
+https://xenodochial-hopper-7a5d74.netlify.app/0527blog.html
+
 ## ワイヤーフレームURL
 https://cacoo.com/diagrams/ZTf1aJPzs8igQdGg/3762D
 
